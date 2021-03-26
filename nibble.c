@@ -1,4 +1,4 @@
-/* Copyright 2020 Jay Greco
+/* Copyright 2020 Jay Greco & Falcaux
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -12,6 +12,8 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * 
+ * Change bitc_led by Big Led in RGB
  */
 #include QMK_KEYBOARD_H
 #include "big_led.h"
