@@ -1,6 +1,6 @@
 # NIBBLE
 
-![NIBBLE](https://nullbits.co/static/img/nibble1.jpg)
+![NIBBLE](https://i.redd.it/rbtqcef90up61.jpg)
 
 A unique, tweakable 65% keyboard kit built by nullbits. [More info at nullbits.co](https://nullbits.co/nibble/)
 
