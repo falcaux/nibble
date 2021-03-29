@@ -1,4 +1,4 @@
-# NIBBLE
+# NIBBLE By Falcaux
 
 ![NIBBLE](https://i.redd.it/rbtqcef90up61.jpg)
 
